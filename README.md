@@ -27,5 +27,5 @@ Implemented to sample from Gamma(2,2) using Gamma(2,1) as a proposal distributio
 
 ## Repository Files
 
-- **RVG.rmd**: Contains all the code for generating the random variables
+- **RVG.Rmd**: Contains all the code for generating the random variables
 - **RVG.pdf**: Knitted pdf of the rmd file
