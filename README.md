@@ -1,6 +1,6 @@
 # Random Variable Generation (RVG)
 
-This project repository contains the implementation and results of simulations for three distinct distributions: Beta(5,1), Student's t-distribution with 2 degrees of freedom, and Gamma(2,2). Each distribution was chosen to demonstrate different methods of random variable generation and their applications in statistical analysis.
+This project repository contains the implementation and results of simulations for three distributions: Beta(5,1), Student's t-distribution with 2 degrees of freedom, and Gamma(2,2). Each distribution was chosen to demonstrate different methods of random variable generation and their applications in statistical analysis.
 
 ## Project Overview
 
